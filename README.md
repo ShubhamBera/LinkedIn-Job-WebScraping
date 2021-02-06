@@ -4,7 +4,7 @@ In this Project The user will have to give the job position and location of thei
 Selenium and BeautifulSoup is used in scrapping the web page of LinkedIn.com.
 
 * To Use Selenium go to commandprompt and enter: pip install selenium
-* To Use BeautifulSoup go to commandprompt and enter: pip install BeautifulSoup
+* To Use BeautifulSoup go to commandprompt and enter: pip install BeautifulSoup4
 
 
 
